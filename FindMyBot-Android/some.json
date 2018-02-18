@@ -1,0 +1,10 @@
+{
+    "type": "select",
+    "args": {
+        "table": "article",
+        "columns": [
+            "id",
+            "title"
+        ]
+    }
+}
