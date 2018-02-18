@@ -6,7 +6,7 @@ GPIO.setmode(GPIO.BCM)
 
 m1f = 5
 m1r = 6
-m2f = 13
+m2f = 26
 m2r = 19
 
 GPIO.setup(m1f, GPIO.OUT)
